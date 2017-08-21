@@ -143,12 +143,12 @@ a img {
 
 a,
 a:visited {
-	color: #888;
+	color: #ff6c00;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #ccc;
+	color: #888;
 }
 
 p a,
