@@ -1,0 +1,22 @@
+/* classed link styles, appropriate for navigation area */
+
+a.nav {color: black; text-decoration: none;}
+a.nav:link {color: #666666;}
+a.nav:visited {color: #666666;}
+a.nav:hover {color: #E2131B;}
+a.nav:active {color: #666666;}
+
+a.cav {color: red; text-decoration: none;}
+a.cav:link {color: red;}
+a.cav:hover {color: orange;}
+
+
+a.dav {color: white; text-decoration: none;}
+a.dav:link {color: #939598;}
+a.dav:visited {color: #939598;}
+a.dav:hover {color: orange;}
+a.dav:active {color: #939598;}
+
+.txt_a {color: #000000; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align:justify;}
+.txt_b {color: #000000; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align:justify; line-height: 16px;}
+.txt_c {color: #000000; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight:bold;}

@@ -1,0 +1,45 @@
+<font></font>
+<script type="text/javascript" src="stmenu.js"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<span>
+<script id="sothink_widgets:dwwidget_dhtmlmenu5_18_2009.pgt" type="text/javascript">
+<!--
+stm_bm(["menu64cf",820,"","blank.gif",0,"","",0,0,250,0,1000,1,0,0,"","",0,0,1,2,"default","hand",""],this);
+stm_bp("p0",[0,4,0,0,0,3,0,7,100,"",-2,"",-2,50,0,0,"#999999","#E6EFF9","",3,0,0,"#000000"]);
+stm_ai("p0i0",[2,"","","",-1,-1,0,"index.html","_self","","","","",0,0,0,"","",0,0,0,0,1,"#E6EFF9",0,"#FFD602",0,"1a.gif","1b.gif",3,3,0,0,"#E6EFF9","#000000","#000000","#000000","8pt Verdana","8pt Verdana",0,0],69,55);
+stm_aix("p0i1","p0i0",[2,"","","",-1,-1,0,"location.html","_self","","","","",0,0,0,"","",7,7,0,0,1,"#E6EFF9",0,"#FFD602",0,"2a.gif","2b.gif"],136,55);
+stm_bpx("p1","p0",[1,4,0,0,0,3,0,0]);
+stm_aix("p1i0","p0i0",[0,"  Location Map","","",-1,-1,0,"location.html","_self","","","","",0,0,0,"","",0,0,0,0,1,"#CCCCCC",0,"#999999",0,"",""],160,25);
+stm_aix("p1i1","p1i0",[0,"  Site Plan","","",-1,-1,0,""],160,25);
+stm_aix("p1i2","p1i1",[0,"  Specification"],160,25);
+stm_aix("p1i3","p1i1",[0,"  Security"],160,25);
+stm_aix("p1i4","p1i1",[0,"  Facilities and Amenities"],160,25);
+stm_aix("p1i5","p1i0",[0,"  Gallery","","",-1,-1,0,"gallery.html"],160,25);
+stm_ep();
+stm_aix("p0i2","p0i0",[2,"","","",-1,-1,0,"","_self","","","","",0,0,0,"","",7,7,0,0,1,"#E6EFF9",0,"#FFD602",0,"3a.gif","3b.gif"],178,55);
+stm_bpx("p2","p1",[]);
+stm_aix("p2i0","p1i1",[0,"  How to Purchase"],210,25);
+stm_aix("p2i1","p1i1",[0,"  Financing /  Loan Calculator"],210,25);
+stm_aix("p2i2","p1i1",[0,"  EPF Guidelines"],210,25);
+stm_aix("p2i3","p1i1",[0,"  Malaysia My Second Home"],210,25);
+stm_aix("p2i4","p1i1",[0,"  Foreign Investment Committee"],210,25);
+stm_aix("p2i5","p1i1",[0,"  Check List"],210,25);
+stm_aix("p2i6","p1i1",[0,"  Progress Update"],210,25);
+stm_aix("p2i7","p1i1",[0,"  E-Newsletter"],210,25);
+stm_ep();
+stm_aix("p0i3","p0i0",[2,"","","",-1,-1,0,"","_self","","","","",0,0,0,"","",7,7,0,0,1,"#E6EFF9",0,"#FFD602",0,"4a.gif","4b.gif"],108,55);
+stm_bpx("p3","p1",[]);
+stm_aix("p3i0","p1i1",[0,"  Iskandar Waterfront \r\n  Development Sdn Bhd"],160,35);
+stm_aix("p3i1","p1i1",[0,"  Danga Bay Sdn Bhd"],160,25);
+stm_ep();
+stm_aix("p0i4","p0i0",[2,"","","",-1,-1,0,"","_self","","","","",0,0,0,"","",7,7,0,0,1,"#E6EFF9",0,"#FFD602",0,"5a.gif","5b.gif"],100,55);
+stm_bpx("p4","p1",[]);
+stm_aix("p4i0","p1i1",[0,"  Call Back Request"],130,25);
+stm_aix("p4i1","p1i1",[0,"  Contact Us"],130,25);
+stm_ep();
+stm_ep();
+stm_em();
+//-->
+</script>
+</span>

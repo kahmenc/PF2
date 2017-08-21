@@ -1,0 +1,30 @@
+#slider {
+	MARGIN: 0px auto; WIDTH: 1150px; POSITION: relative
+}
+.scroll {
+	CLEAR: left;
+	OVERFLOW-X: hidden;
+	MARGIN: 0px auto;
+	OVERFLOW: auto;
+	WIDTH: 1000px;
+	POSITION: relative;
+	HEIGHT: 357px
+}
+.scrollContainer DIV.panel {
+	OVERFLOW: hidden; WIDTH: 1000px; HEIGHT: 357px
+}
+#shade {
+	HEIGHT: 50px
+}
+.scrollButtons {
+	CURSOR: pointer; POSITION: absolute; TOP: 140px
+}
+.left.scrollButtons {
+	LEFT: 20px
+}
+.right.scrollButtons {
+	RIGHT: 20px
+}
+.hide {
+	DISPLAY: none
+}
