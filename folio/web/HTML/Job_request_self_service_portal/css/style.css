@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body {padding: 0px;margin: 0px;font-family: "Open Sans",sans-serif;
+font-size:13px;
+font-weight:400;
+line-height:20px;
+color:#333;}
+#container{width:100%;}
+h1{font-size:22px; color:#ff9900; font-weight:400;}
+h2{font-size:18px; line-height:22px; color:#ff9900; font-weight:300; padding:0 0 5px 0; margin:20px 0 20px 0;border-bottom:1px dotted #929699;}
+a {color: #4d80be;text-decoration: none;border:0px;}
+a img{border:0;}
+
+table{font-size:14px; line-height:25px;}
+#index{background: url(../images/01-webinar-request-a.jpg) no-repeat top; min-width:1000px; height:864px;}
+#know-process{background: url(../images/01-webinar-request-b.jpg) no-repeat top; min-width:1000px; height:1420px;}
+#webinar-chart{background: url(../images/02-webinar-chart.jpg) no-repeat top; min-width:1000px; height:1085px;}
+#event-page{background: url(../images/03-event-page.jpg) no-repeat top; min-width:1000px; height:1505px;}
+#upload{background: url(../images/04-presentation-download-leads.jpg) no-repeat top; min-width:1000px; height:823px;}
+#fill{background: url(../images/05-email-campaign.jpg) no-repeat top; min-width:1000px; height:823px;}
+
